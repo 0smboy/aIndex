@@ -1,0 +1,5 @@
+{
+  "name": "A-Share Index Explorer",
+  "description": "An interactive visualization of Chinese A-share market indices, featuring a snake-like path of practical trading advice and dynamic pie-chart representations of index compositions.",
+  "requestFramePermissions": []
+}
